@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RippleSharp", "RippleSharp\RippleSharp.csproj", "{D994E254-30AA-4E61-8744-9BA17D56FF95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{C13A06A6-A310-4A69-B9D5-959C9FBF060F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D994E254-30AA-4E61-8744-9BA17D56FF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D994E254-30AA-4E61-8744-9BA17D56FF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D994E254-30AA-4E61-8744-9BA17D56FF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D994E254-30AA-4E61-8744-9BA17D56FF95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C13A06A6-A310-4A69-B9D5-959C9FBF060F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13A06A6-A310-4A69-B9D5-959C9FBF060F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13A06A6-A310-4A69-B9D5-959C9FBF060F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13A06A6-A310-4A69-B9D5-959C9FBF060F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D65941B-4F4C-481E-8CFD-5E8D8E54BE58}
+	EndGlobalSection
+EndGlobal
